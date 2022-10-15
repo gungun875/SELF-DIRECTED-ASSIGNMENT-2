@@ -8,12 +8,12 @@
 
 int main()
 {
-    int a = 10;
-    int b = 20;
+    int a = 10; //initialize variab a
+    int b = 20; // initialize variable b
     int c;
     
-    c = a + b;
-    printf("Anser is %d",c);
+    c = a + b; // adding two variables
+    printf("Anser is %d",c); // printing result
 
     return 0;
 }
