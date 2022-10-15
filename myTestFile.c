@@ -8,8 +8,8 @@
 
 int main()
 {
-    int a = 10; //initialize variab a
-    int b = 20; // initialize variable b
+    int a = 30; //initialize variab a
+    int b = 50; // initialize variable b
     int c;
     
     c = a + b; // adding two variables
